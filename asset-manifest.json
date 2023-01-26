@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Personal-Web/static/css/main.4d1bb302.css",
+    "main.js": "/Personal-Web/static/js/main.52cac51e.js",
+    "static/js/787.633816a4.chunk.js": "/Personal-Web/static/js/787.633816a4.chunk.js",
+    "static/media/Maidental.png": "/Personal-Web/static/media/Maidental.3cf2cc206f0b60091e03.png",
+    "static/media/Jago.png": "/Personal-Web/static/media/Jago.49418ea1cb25828e337d.png",
+    "static/media/Jaga Bumi.png": "/Personal-Web/static/media/Jaga Bumi.075807688f7814eec2ab.png",
+    "static/media/image.png": "/Personal-Web/static/media/image.cc3533d8f00f03148051.png",
+    "static/media/figma.png": "/Personal-Web/static/media/figma.8d0f407d290d4696413f.png",
+    "static/media/CV_I GUSTI MADE AGUNG ARY SURYA PERSADA_ENG.pdf": "/Personal-Web/static/media/CV_I GUSTI MADE AGUNG ARY SURYA PERSADA_ENG.e93cd11bbc62a29f488b.pdf",
+    "static/media/frontend.svg": "/Personal-Web/static/media/frontend.78e1606f38b06ac2e435a0b02929c0bf.svg",
+    "static/media/ui.svg": "/Personal-Web/static/media/ui.9d6d0464fc8d4aa33777ca208b3176ab.svg",
+    "static/media/patern.svg": "/Personal-Web/static/media/patern.4fa9ba54f45a8a6e54bbf2b54fcf17d3.svg",
+    "static/media/illustrator.svg": "/Personal-Web/static/media/illustrator.be7acaef9d502dacf91ed245c16a76da.svg",
+    "static/media/point.svg": "/Personal-Web/static/media/point.a46368c68d47938531141881a33c1239.svg",
+    "static/media/Harsi.svg": "/Personal-Web/static/media/Harsi.84dc8ad1396c50eb0d08fffd73ccc40f.svg",
+    "static/media/LinkedIn.svg": "/Personal-Web/static/media/LinkedIn.e8aa18a7db57ff24da13f57bf79fa2c9.svg",
+    "static/media/Instagram.svg": "/Personal-Web/static/media/Instagram.c10e3fb04179f7ec323b30f7b6bbed44.svg",
+    "static/media/medium.svg": "/Personal-Web/static/media/medium.bda9ee713a9c50abf6afdab71df1796a.svg",
+    "index.html": "/Personal-Web/index.html",
+    "main.4d1bb302.css.map": "/Personal-Web/static/css/main.4d1bb302.css.map",
+    "main.52cac51e.js.map": "/Personal-Web/static/js/main.52cac51e.js.map",
+    "787.633816a4.chunk.js.map": "/Personal-Web/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d1bb302.css",
+    "static/js/main.52cac51e.js"
+  ]
+}
